@@ -1,0 +1,3 @@
+GPJaSI - gprolog (gnu prolog) Java Simple Interface
+
+Prolog interfaces for java are hard to configure and use. Some are old and deprecated, other ahave many bugs. This is a new Java interface, created from scratch, and all you need is to have "gprolog" command accessible in your path.
