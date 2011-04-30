@@ -6,7 +6,7 @@
 package gpInterface.threads;
 
 import java.util.Scanner;
-import process.Processo;
+import example.Main;
 
 /**
  *

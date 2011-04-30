@@ -1,4 +1,4 @@
-subclass(b,a).
-calls(a,b).
-calls(z,l).
-father(A,B) :- subclass(B,A) , calls(A,B).
+son(b,a).
+male(a).
+
+father(A,B) :- son(B,A) , male(A).
